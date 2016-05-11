@@ -1,0 +1,67 @@
+body{
+	background: url(https://agushoe.files.wordpress.com/2014/06/dscn5081.jpg);
+	color 	: white;
+}
+
+nav{
+	background: rgba(0,0,0,.5);
+	width 		: 45%;
+	position 	: fixed;
+	top 		: 0px;
+	right 		: 0px;
+	z-index 	: 10;
+}
+
+nav ul{
+	list-style	:none;
+	padding 	: 0px;
+	margin 		: 0px;
+
+}
+
+nav ul li{
+	color 	: white;
+	width 	: 30%;
+	display : inline-block;
+	text-align 	: center;
+	padding-top : 10px;
+	padding-bottom: 10px;
+}
+
+nav ul li:hover{
+	background : rgba(255, 255, 255, .5);
+	color : black;
+}
+
+.volunteerBanner{
+	background: url(https://media.licdn.com/mpr/mpr/p/2/005/0a9/05e/07ae3bd.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: center;
+}
+
+img{
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+}
+
+.donateBanner{
+	background: url(http://cdn.bigbangfish.com/beautiful/beautiful-underwater/beautiful-underwater-3.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: center;
+}
+
+.page-header{
+	text-align: center;
+	color: white;
+
+	
+}
